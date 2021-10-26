@@ -1,22 +1,15 @@
 # vue-sku-form
 
-基于 Vue & ElementUI 的电商 SKU 表单配置组件
+基于 vue-sku-form (https://hooray.github.io/vue-sku-form)表单配置组件 进行的二次开远
 
-[文档](https://hooray.github.io/vue-sku-form)
+最近需要开发一个后台商品SKU的模块，在网上找了找没有适合需求的 就拿过来改了一下
 
-## 你或许感兴趣
+1.支持原组件已有的功能具体看原作者文档
 
-[Fantastic-admin](https://hooray.gitee.io/fantastic-admin/)
+2.支持自定义规格项，并智能判断保留已添加的数据（原组件是写死的）
 
-一款开箱即用的 Vue 中后台管理系统框架
+3.支持自定义规格属性，并智能判断保留已添加的数据（原组件是写死的）
 
-<table>
-    <tr>
-        <td><img src="https://hooray.gitee.io/fantastic-admin/preview1.png" /></td>
-        <td><img src="https://hooray.gitee.io/fantastic-admin/preview2.png" /></td>
-    </tr>
-    <tr>
-        <td><img src="https://hooray.gitee.io/fantastic-admin/preview3.png" /></td>
-        <td><img src="https://hooray.gitee.io/fantastic-admin/preview4.png" /></td>
-    </tr>
-</table>
+4.支持规格自定义修改，修改规格时可以删除原有规格项和规格属性（属性一个也不勾选时自动取消该项）
+
+5.修改时支持增加规格项和规格属性，并智能判断保留已添加的数据
