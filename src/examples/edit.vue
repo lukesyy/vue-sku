@@ -137,8 +137,8 @@ export default {
 				item: []
 			}
 			this.sourceAttribute.push(obj)
-			if (this.msgTitle == '修改成功') {
-				//根据自己的实际情况 区分修改还是增加
+			if (true) {//根据自己的实际情况 区分修改还是增加
+
 				this.$refs.skuForm.init(true)
 			} else {
 				this.$refs.skuForm.init()
