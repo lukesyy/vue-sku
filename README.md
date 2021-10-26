@@ -13,3 +13,6 @@
 4.支持规格自定义修改，修改规格时可以删除原有规格项和规格属性（属性一个也不勾选时自动取消该项）
 
 5.修改时支持增加规格项和规格属性，并智能判断保留已添加的数据
+# 可能会在一些未知条件下 智能填充数据会失效 不影响其他功能
+![image](https://user-images.githubusercontent.com/70319988/138799266-d510f807-142d-4b7d-a28a-d5d1dfcd1a2b.png)
+![image](https://user-images.githubusercontent.com/70319988/138799299-606f4863-1e1c-40cb-9224-c33704b39235.png)
