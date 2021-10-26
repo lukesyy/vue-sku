@@ -1,6 +1,6 @@
 # vue-sku-form
 
-基于 vue-sku-form (https://hooray.github.io/vue-sku-form)表单配置组件 进行的二次开远
+基于 [vue-sku-form] (https://hooray.github.io/vue-sku-form)表单配置组件 进行的二次开远
 
 最近需要开发一个后台商品SKU的模块，在网上找了找没有适合需求的 就拿过来改了一下
 
