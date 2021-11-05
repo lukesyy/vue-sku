@@ -1,10 +1,14 @@
 # vue-sku-form
 
-基于 [vue-sku-form] （ https://hooray.github.io/vue-sku-form ）  表单配置组件 进行的二次开远
+基于 [vue-sku-form] （ https://hooray.github.io/vue-sku-form ）  表单配置组件 进行的二次开发
+
 
 最近需要开发一个后台商品SKU的模块，在网上找了找没有适合需求的 就拿过来改了一下
 
+
 `npm` 安装不上可以试试 `cnpm`  支持`yarn`
+
+
 
 1.支持原组件已有的功能具体看原作者文档
 
